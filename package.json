@@ -1,6 +1,6 @@
 {
   "name": "vue-router-uniapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "通过vue-router的方式调用uniapp的路由",
   "main": "./src/index.js",
   "scripts": {
