@@ -14,3 +14,15 @@
   Vue.prototype.$router = router
 
 ```
+
+## 路由映射关系
+```js
+  {
+    push: "navigateTo",
+    replace: "redirectTo",
+    reLaunch: "reLaunch",
+    switchTab: "switchTab",
+    back: "navigateBack"
+  }
+
+```
